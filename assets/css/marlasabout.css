@@ -1,0 +1,304 @@
+<link src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+<div class="only_conterner">
+<section class="about-us-area" id="about">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="left-content">
+                    <h2 class="brder_bt">About Marla’s</h2>
+                    <p>At Marla’s Fashions we are dedicated to helping you find the perfect dress for the events that mark the important stages in your life. </p>
+                    <ul>
+                        <li><i class="fa fa-check" aria-hidden="true"></i>We understand that finding the perfect dress can take a lot of searching and even when you think you’ve found it, you might only then discover it’s not available in your size!  And we are constantly updating our styles to the latest trends, in sizes ranging from 2 to 24, because we believe there’s a perfect dress for everyone and we can help you find it! </li>
+                        <li><i class="fa fa-check" aria-hidden="true"></i> Thanks why we offer 24 / 7 customer service with real people waiting to help and with a responsetime guarantee. We’re here for you.</li>
+                        <li><i class="fa fa-check" aria-hidden="true"></i>  Our dresses are made for those unforgettable events in life where the perfect dress can make the day. We carry Prom and Grade 8 Graduation, Bridesmaids (as well as Destination Wedding), Quinceanera / Sweet 15, Wedding Guest and Infinity Multi-Way Dresses</li>
+                    </ul>  
+                <!--     <a href="#" class="shadow-btn">learn more</a> -->
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="right-content">
+                  <img src="{{'shutterstock.jpg' | asset_url}}"  class="w-100" style="width:100%"> 
+           
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--========About us End=============-->
+
+<!--========vision End=============-->
+<section class="tcvpb_section_tc pd_all overlay" id="vision" 
+         style="background: url({{ 'our-banner.jpg' | asset_url }})">
+           
+  <div class="container">
+    <div class="our_vision_content">
+      <div class="row">
+        <div class="col-md-6 col-sm-6 col-12">
+                   <div class="post_content">
+                    <h2 class="brder_bt">Who Are We?</h2>
+                    <p>Marla’s has been helping customers like you discover the perfect dress for over 25 years. From our beginnings as a store founded with the belief that occasion dresses don’t have to cost the earth and should be available to women of any size, we have grown into our online store. </p>
+                    <p>Here we can offer you the widest choice and size ranges of dresses, shipped fast from Canada and the USA. </p>
+                    <p>We like to bring the human touch and our experience from helping customers in person in our store to our online customers. Buy who are ‘we’?</p>
+                   <!--    <a href="#" class="shadow-btn">learn more</a> -->
+                    </div>
+        </div>
+
+        <div class="col-md-6 col-sm-6 col-12">
+                   <div class="VisionImg">
+                     
+                     <img src="{{'our-single.png' | asset_url}}" alt="about us image"> 
+
+                   </div>
+                       
+                
+        </div>
+      </div>
+    </div>
+  </div>  
+</section>
+<!--========vision End=============-->
+
+<!--===============TESTiMONIALS===============-->
+<div class="client-reviews" style="background: url({{ 'slide_bg.jpg' | asset_url }});">
+  
+   <div class="client-reviewsfade">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3">
+        <div class="testimials-title">
+          <h4>What Customer’s Say </h4>
+          <h1>About Us</h1>
+          <!-- <p>Lorem ipsum dolor sit amet, elit. Repellat debitis, consequuntur cum nostrum sapiente amet nulla optio.</p> -->
+        </div>  
+      </div>
+      <div class="col-md-9">
+        <div class="owl-carousel owl-theme" id="reviewslider">
+          <div class="item"> 
+            <div class="myitemstesti">
+              <div class="revtop">
+                <p>Everything from the description of the item to the order process to the delivery to the packaging was ABSOLUTELY FABULOUS! The personalized note was a lovely extra touch. Highly recommend! Will definitely shop with Marla’s again..</p>
+                <div class="reviewtesti">
+                  <div class="titlename-Tst">
+                    <p>
+                      <img src="assets/images/starts.png" alt=""/>
+                      <img src="assets/images/starts.png" alt=""/>
+                      <img src="assets/images/starts.png" alt=""/>
+                      <img src="assets/images/starts.png" alt=""/>
+                      <img src="assets/images/starts.png" alt=""/>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="testimonial-author">
+                    <div class="author-image">
+                      <img src="{{'demo-slider.jpg' | asset_url}}"  class="" style="width:100%"> 
+                     
+                    </div>
+                    <div class="author-text">
+                      <span class="name">
+                      First</span>
+
+                      <span class="info">
+                      xyz</span>
+                    </div>
+                  </div>
+            </div>
+          </div>
+          <!-- =======ITEM FIRST END===== -->
+          <div class="item"> 
+            <div class="myitemstesti">
+              <div class="revtop">
+                <p>Everything from the description of the item to the order process to the delivery to the packaging was ABSOLUTELY FABULOUS! The personalized note was a lovely extra touch. Highly recommend! Will definitely shop with Marla’s again..</p>
+                <div class="reviewtesti">
+                  <div class="titlename-Tst">
+                    <p>
+                      <img src="assets/images/starts.png" alt=""/>
+                      <img src="assets/images/starts.png" alt=""/>
+                      <img src="assets/images/starts.png" alt=""/>
+                      <img src="assets/images/starts.png" alt=""/>
+                      <img src="assets/images/starts.png" alt=""/>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="testimonial-author">
+                    <div class="author-image">
+                      <img src="{{'demo-slider.jpg' | asset_url}}"  class="" style="width:100%">
+                    </div>
+                    <div class="author-text">
+                      <span class="name">
+                      First</span>
+
+                      <span class="info">
+                      xyz</span>
+                    </div>
+                  </div>
+            </div>
+          </div>
+          <!-- =======ITEM Second END===== -->
+
+                   <!-- =======ITEM FIRST END===== -->
+          <div class="item"> 
+            <div class="myitemstesti">
+              <div class="revtop">
+                <p>Everything from the description of the item to the order process to the delivery to the packaging was ABSOLUTELY FABULOUS! The personalized note was a lovely extra touch. Highly recommend! Will definitely shop with Marla’s again..</p>
+                <div class="reviewtesti">
+                  <div class="titlename-Tst">
+                    <p>
+                      <img src="assets/images/starts.png" alt=""/>
+                      <img src="assets/images/starts.png" alt=""/>
+                      <img src="assets/images/starts.png" alt=""/>
+                      <img src="assets/images/starts.png" alt=""/>
+                      <img src="assets/images/starts.png" alt=""/>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="testimonial-author">
+                    <div class="author-image">
+                      <img src="{{'demo-slider.jpg' | asset_url}}"  class="" style="width:100%">
+                    </div>
+                    <div class="author-text">
+                      <span class="name">
+                      First</span>
+
+                      <span class="info">
+                      xyz</span>
+                    </div>
+                  </div>
+            </div>
+          </div>
+          <!-- =======ITEM Second END===== -->
+        </div> 
+      </div>
+    </div>
+  </div>
+  </div>
+</div>
+<!--===============TESTiMONIALS===============-->
+
+<!--========services START=============-->
+<section class="pd_all" id="services">
+  <div class="container">
+       <div class="row">
+      <div class="col-md-12 col-sm-12">
+        <div class="top_head">
+          <h2>MarlasFashions</h2>
+          <p>Why Shop at MarlasFashions.com?</p>
+        </div>
+      </div>
+       </div>
+
+       <div class="row mar_top">
+      <div class="col-md-4 col-sm-4">
+        <div class="services_box">
+          <div class="icon_service">
+            <i class="fa fa-desktop" aria-hidden="true"></i>
+          </div>
+
+          <div class="content_service">
+                   <a href="#"><h3>Low Price Guarantee</h3></a>
+                   <p>If you find a lower price on any dress we carry online, we will match it!.</p>
+          </div>
+        </div>
+      </div>
+
+
+
+      <div class="col-md-4 col-sm-4">
+        <div class="services_box">
+          <div class="icon_service">
+            <i class="fa fa-bell-o" aria-hidden="true"></i>
+          </div>
+
+          <div class="content_service">
+                   <a href="#"><h3>24/7 Customer Support</h3></a>
+                   <p>If you find a lower price on any dress we carry online, we will match it!.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4 col-sm-4">
+        <div class="services_box">
+          <div class="icon_service">
+            <i class="fa fa-map-marker" aria-hidden="true"></i>
+          </div>
+
+          <div class="content_service">
+                   <a href="#"><h3>Sizing & Color</h3></a>
+                   <p>If you find a lower price on any dress we carry online, we will match it!.</p>
+          </div>
+        </div>
+      </div>
+
+
+<div class="col-md-4 col-sm-4">
+        <div class="services_box">
+          <div class="icon_service">
+            <i class="fa fa-bell-o" aria-hidden="true"></i>
+          </div>
+
+          <div class="content_service">
+                   <a href="#"><h3>In-House Seamstress</h3></a>
+                   <p>If you find a lower price on any dress we carry online, we will match it.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4 col-sm-4">
+        <div class="services_box">
+          <div class="icon_service">
+            <i class="fa fa-map-marker" aria-hidden="true"></i>
+          </div>
+
+          <div class="content_service">
+                   <a href="#"><h3>Dream Dresses for </h3></a>
+                   <p> If you find a lower price on any dress we carry online, we will match it.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4 col-sm-4">
+        <div class="services_box">
+          <div class="icon_service">
+            <i class="fa fa-picture-o" aria-hidden="true"></i>
+          </div>
+
+          <div class="content_service">
+                   <a href="#"><h3>Verified Security</h3></a>
+                   <p>If you find a lower price on any dress we carry online, we will match it!.</p>
+          </div>
+        </div>
+      </div>
+
+
+       </div>
+  </div>Ś
+</section>
+  </div>
+<!--========services END=============-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+
+<script>
+ $('#reviewslider').owlCarousel({
+    loop:true,
+    margin:20,
+    autoplay: true,
+    nav:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:2
+        },
+        1000:{
+            items:2
+        }
+    },navText: [ '<span class="ti-angle-left"></span>', '<span class="ti-angle-right"></span>' ]
+})
+
+</script>
+
+
